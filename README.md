@@ -89,7 +89,7 @@ git push
 ## 联系
 
 - 主理人：[@Madokana127](https://github.com/Madokana127)
-- 共创伙伴：<!-- 补上两位的主页，例如 [@username](https://github.com/username) -->
+- 共创伙伴：[@EndlessCylA](https://github.com/EndlessCylA)<!-- 另一位在这里追加 -->
 - 有想法或疑问：[Issues](https://github.com/Madokana127/Corona/issues) 或直接找我们
 
 ---
