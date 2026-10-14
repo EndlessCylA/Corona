@@ -1,0 +1,6 @@
+# Obsidian 界面状态（随窗口/面板变化，不纳入版本控制）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian 回收站
+.trash/
